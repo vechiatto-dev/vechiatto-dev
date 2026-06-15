@@ -42,3 +42,11 @@
 ## 📫 Contato / Contact
 
 📧 vechiatto.tech@gmail.com
+
+---
+
+## 📊 GitHub Stats / Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vechiatto-dev&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vechiatto-dev&layout=compact&theme=dark&hide_border=true)
